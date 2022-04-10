@@ -1,6 +1,6 @@
 ### Olá eu sou o Rafael Canedo 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/canedopriv)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/canedodev)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/canedopriv)
 
 ![Canedo´s GitHub stats](https://github-readme-stats.vercel.app/api?username=rafabcanedo&show_icons=true&theme=onedark)
