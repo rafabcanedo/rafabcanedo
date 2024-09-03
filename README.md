@@ -1,19 +1,19 @@
-### Olá eu sou o Rafael Canedo 
+# Hey! I'm Rafael Canedo
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/canedodev)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/canedopriv)
+FullStack Developer, When I knew tecnology I loved all this things what tecnlogy give us. Creative, Inovation, Facility and more.
+I'm development a new Era.
 
 ![Canedo´s GitHub stats](https://github-readme-stats.vercel.app/api?username=rafabcanedo&show_icons=true&theme=onedark)
 
-
-## Linguagens que utilizo
+## Known Languages
 
 <div style="display: inline_block"><br/>
-<img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img align="center" alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="center" alt="Typescript"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img align="center" alt="Typescript"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="center" alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </div><br/>
 
-Web/Mobile Developer | Front-end. Codando meu mundo 💻💡
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/rafael-canedo-4abaa8197)
+
+FullStack Developer | Coding all time, turning any idea into a real project 💻💡
