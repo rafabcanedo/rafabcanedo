@@ -1,6 +1,6 @@
 # Hey! I'm Rafael Canedo
 
-FullStack Developer, When I knew tecnology I loved all this things what tecnlogy give us. Creative, Inovation, Facility and more.
+FullStack Developer. When I knew tecnology I loved all this things what tecnlogy give us. Creative, Inovation, Facility and more.
 I'm development a new Era.
 
 ![Canedo´s GitHub stats](https://github-readme-stats.vercel.app/api?username=rafabcanedo&show_icons=true&theme=onedark)
